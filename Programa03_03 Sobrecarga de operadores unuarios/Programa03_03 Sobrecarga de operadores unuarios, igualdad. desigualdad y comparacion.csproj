@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Programa03_03_Sobrecarga_de_operadores_unuarios,_igualdad,_desigualdad_y_comparacion</RootNamespace>
+  </PropertyGroup>
+
+</Project>

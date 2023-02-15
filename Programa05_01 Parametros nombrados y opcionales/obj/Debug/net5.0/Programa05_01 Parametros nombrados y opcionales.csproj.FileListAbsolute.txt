@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\bin\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\bin\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\bin\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\bin\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\bin\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\bin\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\obj\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\obj\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\obj\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\obj\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\obj\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\obj\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\obj\Debug\net5.0\refint\Programa05_01 Parametros nombrados y opcionales.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\obj\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\obj\Debug\net5.0\Programa05_01 Parametros nombrados y opcionales.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa05_01 Parametros nombrados y opcionales\obj\Debug\net5.0\ref\Programa05_01 Parametros nombrados y opcionales.dll

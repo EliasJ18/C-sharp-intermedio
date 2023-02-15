@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\bin\Debug\net5.0\Programa04_01 Serializacion binaria.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\bin\Debug\net5.0\Programa04_01 Serializacion binaria.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\bin\Debug\net5.0\Programa04_01 Serializacion binaria.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\bin\Debug\net5.0\Programa04_01 Serializacion binaria.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\bin\Debug\net5.0\Programa04_01 Serializacion binaria.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\bin\Debug\net5.0\Programa04_01 Serializacion binaria.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\obj\Debug\net5.0\Programa04_01 Serializacion binaria.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\obj\Debug\net5.0\Programa04_01 Serializacion binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\obj\Debug\net5.0\Programa04_01 Serializacion binaria.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\obj\Debug\net5.0\Programa04_01 Serializacion binaria.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\obj\Debug\net5.0\Programa04_01 Serializacion binaria.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\obj\Debug\net5.0\Programa04_01 Serializacion binaria.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\obj\Debug\net5.0\refint\Programa04_01 Serializacion binaria.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\obj\Debug\net5.0\Programa04_01 Serializacion binaria.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\obj\Debug\net5.0\Programa04_01 Serializacion binaria.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_01 Serializacion binaria\obj\Debug\net5.0\ref\Programa04_01 Serializacion binaria.dll

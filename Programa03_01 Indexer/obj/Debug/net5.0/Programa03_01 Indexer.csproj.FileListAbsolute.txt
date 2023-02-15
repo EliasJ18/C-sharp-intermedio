@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\bin\Debug\net5.0\Programa03_01 Indexer.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\bin\Debug\net5.0\Programa03_01 Indexer.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\bin\Debug\net5.0\Programa03_01 Indexer.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\bin\Debug\net5.0\Programa03_01 Indexer.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\bin\Debug\net5.0\Programa03_01 Indexer.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\bin\Debug\net5.0\Programa03_01 Indexer.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\obj\Debug\net5.0\Programa03_01 Indexer.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\obj\Debug\net5.0\Programa03_01 Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\obj\Debug\net5.0\Programa03_01 Indexer.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\obj\Debug\net5.0\Programa03_01 Indexer.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\obj\Debug\net5.0\Programa03_01 Indexer.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\obj\Debug\net5.0\Programa03_01 Indexer.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\obj\Debug\net5.0\refint\Programa03_01 Indexer.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\obj\Debug\net5.0\Programa03_01 Indexer.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\obj\Debug\net5.0\Programa03_01 Indexer.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_01 Indexer\obj\Debug\net5.0\ref\Programa03_01 Indexer.dll

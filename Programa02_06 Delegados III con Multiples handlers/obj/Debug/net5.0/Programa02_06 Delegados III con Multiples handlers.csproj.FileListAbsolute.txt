@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\bin\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\bin\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\bin\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\bin\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\bin\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\bin\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\obj\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\obj\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\obj\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\obj\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\obj\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\obj\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\obj\Debug\net5.0\refint\Programa02_06 Delegados III con Multiples handlers.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\obj\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\obj\Debug\net5.0\Programa02_06 Delegados III con Multiples handlers.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_06 Delegados III con Multiples handlers\obj\Debug\net5.0\ref\Programa02_06 Delegados III con Multiples handlers.dll

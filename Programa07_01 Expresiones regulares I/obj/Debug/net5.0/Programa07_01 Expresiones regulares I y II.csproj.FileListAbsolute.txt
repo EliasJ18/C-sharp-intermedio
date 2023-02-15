@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\bin\Debug\net5.0\Programa07_01 Expresiones regulares I y II.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\bin\Debug\net5.0\Programa07_01 Expresiones regulares I y II.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\bin\Debug\net5.0\Programa07_01 Expresiones regulares I y II.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\bin\Debug\net5.0\Programa07_01 Expresiones regulares I y II.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\bin\Debug\net5.0\Programa07_01 Expresiones regulares I y II.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\bin\Debug\net5.0\Programa07_01 Expresiones regulares I y II.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\obj\Debug\net5.0\Programa07_01 Expresiones regulares I y II.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\obj\Debug\net5.0\Programa07_01 Expresiones regulares I y II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\obj\Debug\net5.0\Programa07_01 Expresiones regulares I y II.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\obj\Debug\net5.0\Programa07_01 Expresiones regulares I y II.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\obj\Debug\net5.0\Programa07_01 Expresiones regulares I y II.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\obj\Debug\net5.0\Programa07_01 Expresiones regulares I y II.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\obj\Debug\net5.0\refint\Programa07_01 Expresiones regulares I y II.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\obj\Debug\net5.0\Programa07_01 Expresiones regulares I y II.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\obj\Debug\net5.0\Programa07_01 Expresiones regulares I y II.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa07_01 Expresiones regulares I\obj\Debug\net5.0\ref\Programa07_01 Expresiones regulares I y II.dll

@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\bin\Debug\net5.0\Programa02_02-03 Sink Multiple.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\bin\Debug\net5.0\Programa02_02-03 Sink Multiple.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\bin\Debug\net5.0\Programa02_02-03 Sink Multiple.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\bin\Debug\net5.0\Programa02_02-03 Sink Multiple.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\bin\Debug\net5.0\Programa02_02-03 Sink Multiple.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\bin\Debug\net5.0\Programa02_02-03 Sink Multiple.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\obj\Debug\net5.0\Programa02_02-03 Sink Multiple.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\obj\Debug\net5.0\Programa02_02-03 Sink Multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\obj\Debug\net5.0\Programa02_02-03 Sink Multiple.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\obj\Debug\net5.0\Programa02_02-03 Sink Multiple.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\obj\Debug\net5.0\Programa02_02-03 Sink Multiple.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\obj\Debug\net5.0\Programa02_02-03 Sink Multiple.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\obj\Debug\net5.0\refint\Programa02_02-03 Sink Multiple.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\obj\Debug\net5.0\Programa02_02-03 Sink Multiple.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\obj\Debug\net5.0\Programa02_02-03 Sink Multiple.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_02 Sink Multiple\obj\Debug\net5.0\ref\Programa02_02-03 Sink Multiple.dll

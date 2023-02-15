@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\bin\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\bin\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\bin\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\bin\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\bin\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\bin\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\obj\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\obj\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\obj\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\obj\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\obj\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\obj\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\obj\Debug\net5.0\refint\Programa03_02 Sobrecarga de operadores binarios.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\obj\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\obj\Debug\net5.0\Programa03_02 Sobrecarga de operadores binarios.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa03_02 Sobrecarga de operadores binarios\obj\Debug\net5.0\ref\Programa03_02 Sobrecarga de operadores binarios.dll

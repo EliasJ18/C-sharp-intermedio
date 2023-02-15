@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\bin\Debug\net5.0\Programa01_05 IComparable.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\bin\Debug\net5.0\Programa01_05 IComparable.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\bin\Debug\net5.0\Programa01_05 IComparable.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\bin\Debug\net5.0\Programa01_05 IComparable.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\bin\Debug\net5.0\Programa01_05 IComparable.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\bin\Debug\net5.0\Programa01_05 IComparable.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\obj\Debug\net5.0\Programa01_05 IComparable.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\obj\Debug\net5.0\Programa01_05 IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\obj\Debug\net5.0\Programa01_05 IComparable.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\obj\Debug\net5.0\Programa01_05 IComparable.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\obj\Debug\net5.0\Programa01_05 IComparable.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\obj\Debug\net5.0\Programa01_05 IComparable.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\obj\Debug\net5.0\refint\Programa01_05 IComparable.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\obj\Debug\net5.0\Programa01_05 IComparable.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\obj\Debug\net5.0\Programa01_05 IComparable.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_05 IComparable\obj\Debug\net5.0\ref\Programa01_05 IComparable.dll

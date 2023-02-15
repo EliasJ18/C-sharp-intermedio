@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa02_04 Delegados I simple/1.0.0": {
+        "runtime": {
+          "Programa02_04 Delegados I simple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa02_04 Delegados I simple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

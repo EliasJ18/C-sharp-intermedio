@@ -1,0 +1,12 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\bin\Debug\net5.0\MisMates.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\bin\Debug\net5.0\MisMates.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\bin\Debug\net5.0\MisMates.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\obj\Debug\net5.0\MisMates.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\obj\Debug\net5.0\MisMates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\obj\Debug\net5.0\MisMates.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\obj\Debug\net5.0\MisMates.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\obj\Debug\net5.0\MisMates.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\obj\Debug\net5.0\MisMates.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\obj\Debug\net5.0\refint\MisMates.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\obj\Debug\net5.0\MisMates.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\MisMates\obj\Debug\net5.0\ref\MisMates.dll

@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\bin\Debug\net5.0\Programa02_01 Sink.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\bin\Debug\net5.0\Programa02_01 Sink.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\bin\Debug\net5.0\Programa02_01 Sink.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\bin\Debug\net5.0\Programa02_01 Sink.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\bin\Debug\net5.0\Programa02_01 Sink.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\bin\Debug\net5.0\Programa02_01 Sink.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\obj\Debug\net5.0\Programa02_01 Sink.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\obj\Debug\net5.0\Programa02_01 Sink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\obj\Debug\net5.0\Programa02_01 Sink.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\obj\Debug\net5.0\Programa02_01 Sink.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\obj\Debug\net5.0\Programa02_01 Sink.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\obj\Debug\net5.0\Programa02_01 Sink.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\obj\Debug\net5.0\refint\Programa02_01 Sink.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\obj\Debug\net5.0\Programa02_01 Sink.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\obj\Debug\net5.0\Programa02_01 Sink.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_01 Sink\obj\Debug\net5.0\ref\Programa02_01 Sink.dll

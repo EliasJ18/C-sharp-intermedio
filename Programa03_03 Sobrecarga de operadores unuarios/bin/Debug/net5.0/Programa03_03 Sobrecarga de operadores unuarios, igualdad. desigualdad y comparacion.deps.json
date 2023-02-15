@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa03_03 Sobrecarga de operadores unuarios, igualdad. desigualdad y comparacion/1.0.0": {
+        "runtime": {
+          "Programa03_03 Sobrecarga de operadores unuarios, igualdad. desigualdad y comparacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa03_03 Sobrecarga de operadores unuarios, igualdad. desigualdad y comparacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

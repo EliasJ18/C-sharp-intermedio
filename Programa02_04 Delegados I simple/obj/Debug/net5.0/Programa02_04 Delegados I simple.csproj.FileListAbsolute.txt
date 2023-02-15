@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\bin\Debug\net5.0\Programa02_04 Delegados I simple.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\bin\Debug\net5.0\Programa02_04 Delegados I simple.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\bin\Debug\net5.0\Programa02_04 Delegados I simple.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\bin\Debug\net5.0\Programa02_04 Delegados I simple.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\bin\Debug\net5.0\Programa02_04 Delegados I simple.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\bin\Debug\net5.0\Programa02_04 Delegados I simple.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\obj\Debug\net5.0\Programa02_04 Delegados I simple.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\obj\Debug\net5.0\Programa02_04 Delegados I simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\obj\Debug\net5.0\Programa02_04 Delegados I simple.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\obj\Debug\net5.0\Programa02_04 Delegados I simple.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\obj\Debug\net5.0\Programa02_04 Delegados I simple.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\obj\Debug\net5.0\Programa02_04 Delegados I simple.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\obj\Debug\net5.0\refint\Programa02_04 Delegados I simple.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\obj\Debug\net5.0\Programa02_04 Delegados I simple.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\obj\Debug\net5.0\Programa02_04 Delegados I simple.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_04 Delegados I simple\obj\Debug\net5.0\ref\Programa02_04 Delegados I simple.dll

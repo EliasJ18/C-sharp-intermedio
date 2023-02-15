@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\bin\Debug\net5.0\Programa04_03 Serializacion XML.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\bin\Debug\net5.0\Programa04_03 Serializacion XML.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\bin\Debug\net5.0\Programa04_03 Serializacion XML.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\bin\Debug\net5.0\Programa04_03 Serializacion XML.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\bin\Debug\net5.0\Programa04_03 Serializacion XML.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\bin\Debug\net5.0\Programa04_03 Serializacion XML.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\obj\Debug\net5.0\Programa04_03 Serializacion XML.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\obj\Debug\net5.0\Programa04_03 Serializacion XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\obj\Debug\net5.0\Programa04_03 Serializacion XML.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\obj\Debug\net5.0\Programa04_03 Serializacion XML.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\obj\Debug\net5.0\Programa04_03 Serializacion XML.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\obj\Debug\net5.0\Programa04_03 Serializacion XML.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\obj\Debug\net5.0\refint\Programa04_03 Serializacion XML.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\obj\Debug\net5.0\Programa04_03 Serializacion XML.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\obj\Debug\net5.0\Programa04_03 Serializacion XML.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_03 Serializacion XML\obj\Debug\net5.0\ref\Programa04_03 Serializacion XML.dll

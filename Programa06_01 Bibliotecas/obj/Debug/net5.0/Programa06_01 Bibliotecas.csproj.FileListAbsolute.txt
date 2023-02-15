@@ -1,0 +1,19 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\bin\Debug\net5.0\Programa06_01 Bibliotecas.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\bin\Debug\net5.0\Programa06_01 Bibliotecas.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\bin\Debug\net5.0\Programa06_01 Bibliotecas.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\bin\Debug\net5.0\Programa06_01 Bibliotecas.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\bin\Debug\net5.0\Programa06_01 Bibliotecas.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\bin\Debug\net5.0\Programa06_01 Bibliotecas.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\bin\Debug\net5.0\MisMates.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\bin\Debug\net5.0\MisMates.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\Programa06_01 Bibliotecas.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\Programa06_01 Bibliotecas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\Programa06_01 Bibliotecas.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\Programa06_01 Bibliotecas.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\Programa06_01 Bibliotecas.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\Programa06_01 Bibliotecas.csproj.CopyComplete
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\Programa06_01 Bibliotecas.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\refint\Programa06_01 Bibliotecas.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\Programa06_01 Bibliotecas.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\Programa06_01 Bibliotecas.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa06_01 Bibliotecas\obj\Debug\net5.0\ref\Programa06_01 Bibliotecas.dll

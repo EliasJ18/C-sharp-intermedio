@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2K497x7L2IoIh0v9T/Ak6k6jc+K4jTXP5GfWto6oNciCFtnUAmydmZumSc6fRqCroVx/XvTt0PV8PePEU58nOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elian\\source\\repos\\Nicosiored cursoC# Intermedio\\Programa04_02 Serializacion Soap y XML\\Programa04_02 Serializacion Soap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elian\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

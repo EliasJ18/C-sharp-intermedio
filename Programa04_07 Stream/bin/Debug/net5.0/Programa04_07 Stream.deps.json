@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa04_07 Stream/1.0.0": {
+        "runtime": {
+          "Programa04_07 Stream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa04_07 Stream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

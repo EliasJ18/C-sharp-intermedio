@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa03_02 Sobrecarga de operadores binarios/1.0.0": {
+        "runtime": {
+          "Programa03_02 Sobrecarga de operadores binarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa03_02 Sobrecarga de operadores binarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

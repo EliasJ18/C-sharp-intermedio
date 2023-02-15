@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Programa05_01_Parametros_nombrados_y_opcionales</RootNamespace>
+  </PropertyGroup>
+
+</Project>

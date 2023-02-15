@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa01_02 IEnumerable, IEnumerator y for each/1.0.0": {
+        "runtime": {
+          "Programa01_02 IEnumerable, IEnumerator y for each.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa01_02 IEnumerable, IEnumerator y for each/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

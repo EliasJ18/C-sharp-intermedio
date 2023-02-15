@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa07_01 Expresiones regulares I/1.0.0": {
+        "runtime": {
+          "Programa07_01 Expresiones regulares I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa07_01 Expresiones regulares I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

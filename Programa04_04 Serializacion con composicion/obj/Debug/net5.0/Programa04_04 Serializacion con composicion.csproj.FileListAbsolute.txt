@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\bin\Debug\net5.0\Programa04_04 Serializacion con composicion.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\bin\Debug\net5.0\Programa04_04 Serializacion con composicion.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\bin\Debug\net5.0\Programa04_04 Serializacion con composicion.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\bin\Debug\net5.0\Programa04_04 Serializacion con composicion.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\bin\Debug\net5.0\Programa04_04 Serializacion con composicion.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\bin\Debug\net5.0\Programa04_04 Serializacion con composicion.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\obj\Debug\net5.0\Programa04_04 Serializacion con composicion.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\obj\Debug\net5.0\Programa04_04 Serializacion con composicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\obj\Debug\net5.0\Programa04_04 Serializacion con composicion.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\obj\Debug\net5.0\Programa04_04 Serializacion con composicion.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\obj\Debug\net5.0\Programa04_04 Serializacion con composicion.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\obj\Debug\net5.0\Programa04_04 Serializacion con composicion.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\obj\Debug\net5.0\refint\Programa04_04 Serializacion con composicion.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\obj\Debug\net5.0\Programa04_04 Serializacion con composicion.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\obj\Debug\net5.0\Programa04_04 Serializacion con composicion.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_04 Serializacion con composicion\obj\Debug\net5.0\ref\Programa04_04 Serializacion con composicion.dll

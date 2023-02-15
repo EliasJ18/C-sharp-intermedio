@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\bin\Debug\net5.0\Programa04_06 Archivos.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\bin\Debug\net5.0\Programa04_06 Archivos.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\bin\Debug\net5.0\Programa04_06 Archivos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\bin\Debug\net5.0\Programa04_06 Archivos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\bin\Debug\net5.0\Programa04_06 Archivos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\bin\Debug\net5.0\Programa04_06 Archivos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\obj\Debug\net5.0\Programa04_06 Archivos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\obj\Debug\net5.0\Programa04_06 Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\obj\Debug\net5.0\Programa04_06 Archivos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\obj\Debug\net5.0\Programa04_06 Archivos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\obj\Debug\net5.0\Programa04_06 Archivos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\obj\Debug\net5.0\Programa04_06 Archivos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\obj\Debug\net5.0\refint\Programa04_06 Archivos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\obj\Debug\net5.0\Programa04_06 Archivos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\obj\Debug\net5.0\Programa04_06 Archivos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_06 Archivos\obj\Debug\net5.0\ref\Programa04_06 Archivos.dll

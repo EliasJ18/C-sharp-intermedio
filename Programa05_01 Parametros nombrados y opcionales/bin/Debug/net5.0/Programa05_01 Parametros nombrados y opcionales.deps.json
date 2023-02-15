@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa05_01 Parametros nombrados y opcionales/1.0.0": {
+        "runtime": {
+          "Programa05_01 Parametros nombrados y opcionales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa05_01 Parametros nombrados y opcionales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

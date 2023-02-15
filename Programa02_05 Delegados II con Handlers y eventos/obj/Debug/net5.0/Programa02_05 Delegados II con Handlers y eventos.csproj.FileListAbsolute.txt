@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\obj\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\obj\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\obj\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\obj\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\obj\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\bin\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\bin\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\bin\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\bin\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\bin\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\bin\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\obj\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\obj\Debug\net5.0\refint\Programa02_05 Delegados II con Handlers y eventos.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\obj\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\obj\Debug\net5.0\Programa02_05 Delegados II con Handlers y eventos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa02_05 Delegados II con Handlers y eventos\obj\Debug\net5.0\ref\Programa02_05 Delegados II con Handlers y eventos.dll

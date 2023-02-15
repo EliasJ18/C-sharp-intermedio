@@ -1,0 +1,18 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\bin\Debug\net5.0\Programa04_02 Serializacion Soap y XML.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\bin\Debug\net5.0\Programa04_02 Serializacion Soap y XML.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\bin\Debug\net5.0\Programa04_02 Serializacion Soap y XML.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\bin\Debug\net5.0\Programa04_02 Serializacion Soap y XML.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\bin\Debug\net5.0\Programa04_02 Serializacion Soap y XML.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\bin\Debug\net5.0\Programa04_02 Serializacion Soap y XML.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\bin\Debug\net5.0\SoapFormatter.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\Programa04_02 Serializacion Soap y XML.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\Programa04_02 Serializacion Soap y XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\Programa04_02 Serializacion Soap y XML.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\Programa04_02 Serializacion Soap y XML.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\Programa04_02 Serializacion Soap y XML.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\Programa04_02 Serializacion Soap y XML.csproj.CopyComplete
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\Programa04_02 Serializacion Soap y XML.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\refint\Programa04_02 Serializacion Soap y XML.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\Programa04_02 Serializacion Soap y XML.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\Programa04_02 Serializacion Soap y XML.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa04_02 Serializacion Soap y XML\obj\Debug\net5.0\ref\Programa04_02 Serializacion Soap y XML.dll

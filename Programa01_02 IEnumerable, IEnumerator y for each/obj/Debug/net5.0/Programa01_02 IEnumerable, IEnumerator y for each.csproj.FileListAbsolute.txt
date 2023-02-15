@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\bin\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\bin\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\bin\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\bin\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\bin\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\bin\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\obj\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\obj\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\obj\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\obj\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\obj\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\obj\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\obj\Debug\net5.0\refint\Programa01_02 IEnumerable, IEnumerator y for each.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\obj\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\obj\Debug\net5.0\Programa01_02 IEnumerable, IEnumerator y for each.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_02 IEnumerable, IEnumerator y for each\obj\Debug\net5.0\ref\Programa01_02 IEnumerable, IEnumerator y for each.dll

@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\bin\Debug\net5.0\Programa01_04 ICloneable.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\bin\Debug\net5.0\Programa01_04 ICloneable.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\bin\Debug\net5.0\Programa01_04 ICloneable.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\bin\Debug\net5.0\Programa01_04 ICloneable.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\bin\Debug\net5.0\Programa01_04 ICloneable.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\bin\Debug\net5.0\Programa01_04 ICloneable.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\obj\Debug\net5.0\Programa01_04 ICloneable.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\obj\Debug\net5.0\Programa01_04 ICloneable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\obj\Debug\net5.0\Programa01_04 ICloneable.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\obj\Debug\net5.0\Programa01_04 ICloneable.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\obj\Debug\net5.0\Programa01_04 ICloneable.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\obj\Debug\net5.0\Programa01_04 ICloneable.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\obj\Debug\net5.0\refint\Programa01_04 ICloneable.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\obj\Debug\net5.0\Programa01_04 ICloneable.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\obj\Debug\net5.0\Programa01_04 ICloneable.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Programa01_04 ICloneable\obj\Debug\net5.0\ref\Programa01_04 ICloneable.dll
