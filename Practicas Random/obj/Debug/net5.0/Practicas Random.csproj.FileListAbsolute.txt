@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\bin\Debug\net5.0\Practicas Random.exe
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\bin\Debug\net5.0\Practicas Random.deps.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\bin\Debug\net5.0\Practicas Random.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\bin\Debug\net5.0\Practicas Random.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\bin\Debug\net5.0\Practicas Random.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\bin\Debug\net5.0\Practicas Random.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\obj\Debug\net5.0\Practicas Random.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\obj\Debug\net5.0\Practicas Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\obj\Debug\net5.0\Practicas Random.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\obj\Debug\net5.0\Practicas Random.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\obj\Debug\net5.0\Practicas Random.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\obj\Debug\net5.0\Practicas Random.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\obj\Debug\net5.0\refint\Practicas Random.dll
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\obj\Debug\net5.0\Practicas Random.pdb
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\obj\Debug\net5.0\Practicas Random.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored cursoC# Intermedio\Practicas Random\obj\Debug\net5.0\ref\Practicas Random.dll
